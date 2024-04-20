@@ -74,18 +74,11 @@ lista2 = [
 "O amor é a essência da vida",
 ]
 
-
-
-# clicar no navegador
-pyautogui.click(x=1089, y=1062)
-time.sleep(1)
-
-
-
-for x in lista2:
+time.sleep(4)
+for x in lista1:
     # clicar na barra de pesquisa
     pyautogui.click(x=350, y=50)
-    time.sleep(2)
+    time.sleep(1)
 
     # digitar na barra de pesquisa
     pyautogui.write(x)
@@ -97,11 +90,10 @@ for x in lista2:
 
     # abrir uma nova guia
     pyautogui.hotkey('ctrl', 't')
-    time.sleep(3)
     
     # fechar a guia anterior
     pyautogui.click(x=269, y=17)
-    time.sleep(3)
+    time.sleep(1)
 
 
 
