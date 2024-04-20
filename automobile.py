@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 lista1 = [
-"O sol brilha no céu",
+"O sol brilha no mel",
 "A chuva molha o chão",
 "As folhas dançam ao vento",
 "O mar murmura segredos antigos",
@@ -23,23 +23,8 @@ lista1 = [
 "O destino tecido pelas escolhas",
 "O perdão cura feridas antigas",
 "A fé move montanhas imensas",
-"A paciência é uma virtude",
-"Os sonhos alimentam a alma",
-"A coragem enfrenta medos profundos",
-"O conhecimento expande horizontes infinitos",
-"A beleza reside na simplicidade",
-"As memórias aquecem o coração",
-"A solidão ensina lições valiosas",
-"O riso contagia os espíritos",
-"A gratidão transforma perspectivas",
-"Os desafios fortalecem o caráter",
-"A gentileza suaviza as arestas",
-"A humildade abre portas inesperadas",
-"A perseverança alcança o impossível",
-"A sabedoria vem com experiência",
-"A paixão inflama os sentidos",
-"A justiça equilibra os destinos",
 ]
+
 
 lista2 = [
 "A harmonia une os opostos",
@@ -63,15 +48,6 @@ lista2 = [
 "A empatia conecta almas distantes",
 "A cooperação constrói pontes",
 "A resiliência é uma armadura",
-"A autoconfiança impulsiona conquistas",
-"A gratidão enriquece o espírito",
-"A autenticidade é a chave",
-"A humildade é a base da grandeza",
-"A introspecção traz autoconhecimento",
-"A tolerância amplia horizontes",
-"A transformação começa de dentro para fora",
-"A esperança é uma luz guia",
-"O amor é a essência da vida",
 ]
 
 time.sleep(2)
