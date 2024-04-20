@@ -75,7 +75,7 @@ lista2 = [
 ]
 
 time.sleep(4)
-for x in lista1:
+for x in lista2:
     # clicar na barra de pesquisa
     pyautogui.click(x=350, y=50)
     time.sleep(1)
