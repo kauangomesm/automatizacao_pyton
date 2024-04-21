@@ -50,6 +50,7 @@ listam2 = [
 "A resiliência é uma armadura",
 ]
 
+
 listap1 = [
 "O sol brilha no céu",
 "A chuva molha o chão",
@@ -135,7 +136,6 @@ for x in listam2:
 
     # pesquisar
     pyautogui.press('enter')
-
     time.sleep(5)
 
     # clicar em guias
