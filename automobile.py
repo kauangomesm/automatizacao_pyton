@@ -52,7 +52,7 @@ lista2 = [
 
 time.sleep(2)
 
-for x in lista2:
+for x in lista1:
     # adicionar guia
     pyautogui.click(x=2241, y=831)
     time.sleep(3)
