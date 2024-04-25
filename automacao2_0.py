@@ -162,6 +162,26 @@ for x in listam2:
     pyautogui.click(x=1079, y=333)
     time.sleep(3)
 
+#limpar historico
+pyautogui.click(x=743, y=995)
+time.sleep(1)
+pyautogui.click(x=1174, y=103)
+time.sleep(4)
+pyautogui.click(x=1291, y=629)
+time.sleep(4)
+pyautogui.click(x=1654, y=223)
+time.sleep(3)
+pyautogui.click(x=1570, y=223)
+time.sleep(2)
+pyautogui.click(x=1568, y=165)
+time.sleep(1)
+pyautogui.click(x=1654, y=223)
+time.sleep(2)
+pyautogui.click(x=1570, y=223)
+time.sleep(2)
+
+
+#fechar o bluestacks
 pyautogui.click(x=2510, y=10)
 time.sleep(1)
 pyautogui.click(x=1375, y=558)
