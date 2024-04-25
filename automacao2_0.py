@@ -117,6 +117,22 @@ listap2 = [
 "A esperança é uma luz guia",
 "O amor é a essência da vida",
 "A gentileza suaviza as arestas",
+"O sol brilha no céu",
+"A chuva molha o chão",
+"As folhas dançam ao vento",
+"O mar murmura segredos antigos",
+"A vida é uma jornada",
+"O amor transcende fronteiras invisíveis",
+"As estrelas cintilam na noite",
+"Os pássaros cantam ao amanhecer",
+"O tempo voa sem aviso",
+"A esperança nunca morre completamente",
+"A arte inspira a alma",
+"A mente busca conhecimento incessantemente",
+"A música acalma os corações inquietos",
+"Os sorrisos iluminam os rostos",
+"As lágrimas lavam a dor",
+"A amizade é um tesouro"
 ]
 
 time.sleep(2)
