@@ -58,8 +58,8 @@ for x in lista1:
     time.sleep(3)
 
     # clicar na barra de pesquisa
-    pyautogui.click(x=1422, y=412)
-    time.sleep(3)
+    # pyautogui.click(x=1422, y=412)
+    # time.sleep(3)
 
     # digitar na barra de pesquisa
     pyautogui.write(x)
