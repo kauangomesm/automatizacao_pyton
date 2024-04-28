@@ -2,7 +2,7 @@ import pyautogui
 import time
 
 listap1 = [
-"O sol brilha no céu",
+"O sol brilha no mel",
 "A chuva molha o chão",
 "As folhas dançam ao vento",
 "O mar murmura segredos antigos",
