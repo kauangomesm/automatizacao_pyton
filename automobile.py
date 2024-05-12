@@ -54,7 +54,12 @@ time.sleep(2)
 
 for x in lista1:
     # adicionar guia
+    # com anuncio
     pyautogui.click(x=2241, y=831)
+
+    # sem anuncio
+    # pyautogui.click(x=2078, y=836) 
+
     time.sleep(3)
 
     # clicar na barra de pesquisa
@@ -71,9 +76,21 @@ for x in lista1:
     time.sleep(5)
 
     # clicar em guias
+    # com anuncio
     pyautogui.click(x=1776, y=978)
+
+
+    # sem anuncio
+    # pyautogui.click(x=1610, y=980)
+
     time.sleep(3)
 
     # fechar a guia anterior
+
+    # com anuncio
     pyautogui.click(x=1079, y=333)
+
+    # sem anuncio
+    # pyautogui.click(x=918, y=328)
+
     time.sleep(3)
