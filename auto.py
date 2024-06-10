@@ -82,7 +82,7 @@ for x in listap2:
     # pesquisar
     pyautogui.press('enter')
 
-    time.sleep(5)
+    time.sleep(9)
 
     # abrir uma nova guia
     pyautogui.hotkey('ctrl', 't')
