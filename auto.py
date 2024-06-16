@@ -89,7 +89,7 @@ for x in listap2:
     
     # fechar a guia anterior
     pyautogui.click(x=269, y=17)
-    time.sleep(1)
+    time.sleep(2)
 
 
 
