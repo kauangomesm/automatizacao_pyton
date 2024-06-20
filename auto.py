@@ -71,7 +71,7 @@ listap2 = [
 ]
 
 time.sleep(4)
-for x in listap2:
+for x in listap1:
     # clicar na barra de pesquisa
     pyautogui.click(x=350, y=50)
     time.sleep(1)
@@ -86,8 +86,9 @@ for x in listap2:
 
     # abrir uma nova guia
     pyautogui.hotkey('ctrl', 't')
-    
+    time.sleep(2)
     # fechar a guia anterior
+    
     pyautogui.click(x=269, y=17)
     time.sleep(2)
 
